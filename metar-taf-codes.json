@@ -1,0 +1,246 @@
+[
+  {
+    "code": "METAR",
+    "meaning": "Aviation routine weather report"
+  },
+  {
+    "code": "TAF",
+    "meaning": "Terminal aerodrome forecast"
+  },
+  {
+    "code": "SPECI",
+    "meaning": "Special weather report"
+  },
+  {
+    "code": "CAVOK",
+    "meaning": "Ceiling and visibility OK"
+  },
+  {
+    "code": "NOSIG",
+    "meaning": "No significant change"
+  },
+  {
+    "code": "RA",
+    "meaning": "Rain"
+  },
+  {
+    "code": "SN",
+    "meaning": "Snow"
+  },
+  {
+    "code": "DZ",
+    "meaning": "Drizzle"
+  },
+  {
+    "code": "GR",
+    "meaning": "Hail"
+  },
+  {
+    "code": "GS",
+    "meaning": "Small hail / snow pellets"
+  },
+  {
+    "code": "PL",
+    "meaning": "Ice pellets"
+  },
+  {
+    "code": "SG",
+    "meaning": "Snow grains"
+  },
+  {
+    "code": "IC",
+    "meaning": "Ice crystals"
+  },
+  {
+    "code": "UP",
+    "meaning": "Unknown precipitation"
+  },
+  {
+    "code": "BR",
+    "meaning": "Mist"
+  },
+  {
+    "code": "FG",
+    "meaning": "Fog"
+  },
+  {
+    "code": "HZ",
+    "meaning": "Haze"
+  },
+  {
+    "code": "FU",
+    "meaning": "Smoke"
+  },
+  {
+    "code": "DU",
+    "meaning": "Widespread dust"
+  },
+  {
+    "code": "SA",
+    "meaning": "Sand"
+  },
+  {
+    "code": "VA",
+    "meaning": "Volcanic ash"
+  },
+  {
+    "code": "PY",
+    "meaning": "Spray"
+  },
+  {
+    "code": "SQ",
+    "meaning": "Squall"
+  },
+  {
+    "code": "FC",
+    "meaning": "Funnel cloud / tornado"
+  },
+  {
+    "code": "SS",
+    "meaning": "Sandstorm"
+  },
+  {
+    "code": "DS",
+    "meaning": "Duststorm"
+  },
+  {
+    "code": "TS",
+    "meaning": "Thunderstorm"
+  },
+  {
+    "code": "SH",
+    "meaning": "Shower"
+  },
+  {
+    "code": "FZ",
+    "meaning": "Freezing"
+  },
+  {
+    "code": "MI",
+    "meaning": "Shallow"
+  },
+  {
+    "code": "BC",
+    "meaning": "Patches"
+  },
+  {
+    "code": "PR",
+    "meaning": "Partial"
+  },
+  {
+    "code": "DR",
+    "meaning": "Low drifting"
+  },
+  {
+    "code": "BL",
+    "meaning": "Blowing"
+  },
+  {
+    "code": "VC",
+    "meaning": "In the vicinity"
+  },
+  {
+    "code": "SKC",
+    "meaning": "Sky clear"
+  },
+  {
+    "code": "CLR",
+    "meaning": "Clear (no clouds below 12,000 ft)"
+  },
+  {
+    "code": "FEW",
+    "meaning": "Few clouds (1-2 oktas)"
+  },
+  {
+    "code": "SCT",
+    "meaning": "Scattered (3-4 oktas)"
+  },
+  {
+    "code": "BKN",
+    "meaning": "Broken (5-7 oktas)"
+  },
+  {
+    "code": "OVC",
+    "meaning": "Overcast (8 oktas)"
+  },
+  {
+    "code": "CB",
+    "meaning": "Cumulonimbus"
+  },
+  {
+    "code": "TCU",
+    "meaning": "Towering cumulus"
+  },
+  {
+    "code": "NCD",
+    "meaning": "No cloud detected"
+  },
+  {
+    "code": "NSC",
+    "meaning": "No significant cloud"
+  },
+  {
+    "code": "VRB",
+    "meaning": "Variable wind direction"
+  },
+  {
+    "code": "G",
+    "meaning": "Gust"
+  },
+  {
+    "code": "KT",
+    "meaning": "Knots"
+  },
+  {
+    "code": "AUTO",
+    "meaning": "Automated report (no human observer)"
+  },
+  {
+    "code": "RMK",
+    "meaning": "Remarks"
+  },
+  {
+    "code": "M",
+    "meaning": "Minus / less than"
+  },
+  {
+    "code": "P",
+    "meaning": "Greater than"
+  },
+  {
+    "code": "NDV",
+    "meaning": "No directional variation"
+  },
+  {
+    "code": "WS",
+    "meaning": "Wind shear"
+  },
+  {
+    "code": "R",
+    "meaning": "Runway"
+  },
+  {
+    "code": "TEMPO",
+    "meaning": "Temporary fluctuations"
+  },
+  {
+    "code": "BECMG",
+    "meaning": "Becoming"
+  },
+  {
+    "code": "PROB",
+    "meaning": "Probability"
+  },
+  {
+    "code": "FM",
+    "meaning": "From"
+  },
+  {
+    "code": "Q",
+    "meaning": "QNH altimeter (hPa)"
+  },
+  {
+    "code": "A",
+    "meaning": "Altimeter (inHg)"
+  }
+]
